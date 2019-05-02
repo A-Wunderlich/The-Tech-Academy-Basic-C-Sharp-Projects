@@ -1,0 +1,11 @@
+C:\Users\wunde\source\repos\StudentReportDrill\StudentReportDrill\bin\Debug\netcoreapp2.1\StudentReportDrill.deps.json
+C:\Users\wunde\source\repos\StudentReportDrill\StudentReportDrill\bin\Debug\netcoreapp2.1\StudentReportDrill.runtimeconfig.json
+C:\Users\wunde\source\repos\StudentReportDrill\StudentReportDrill\bin\Debug\netcoreapp2.1\StudentReportDrill.runtimeconfig.dev.json
+C:\Users\wunde\source\repos\StudentReportDrill\StudentReportDrill\bin\Debug\netcoreapp2.1\StudentReportDrill.dll
+C:\Users\wunde\source\repos\StudentReportDrill\StudentReportDrill\bin\Debug\netcoreapp2.1\StudentReportDrill.pdb
+C:\Users\wunde\source\repos\StudentReportDrill\StudentReportDrill\obj\Debug\netcoreapp2.1\StudentReportDrill.csprojAssemblyReference.cache
+C:\Users\wunde\source\repos\StudentReportDrill\StudentReportDrill\obj\Debug\netcoreapp2.1\StudentReportDrill.csproj.CoreCompileInputs.cache
+C:\Users\wunde\source\repos\StudentReportDrill\StudentReportDrill\obj\Debug\netcoreapp2.1\StudentReportDrill.AssemblyInfoInputs.cache
+C:\Users\wunde\source\repos\StudentReportDrill\StudentReportDrill\obj\Debug\netcoreapp2.1\StudentReportDrill.AssemblyInfo.cs
+C:\Users\wunde\source\repos\StudentReportDrill\StudentReportDrill\obj\Debug\netcoreapp2.1\StudentReportDrill.dll
+C:\Users\wunde\source\repos\StudentReportDrill\StudentReportDrill\obj\Debug\netcoreapp2.1\StudentReportDrill.pdb
