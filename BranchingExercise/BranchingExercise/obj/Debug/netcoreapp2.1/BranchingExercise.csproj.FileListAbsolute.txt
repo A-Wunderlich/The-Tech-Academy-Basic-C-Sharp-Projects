@@ -1,0 +1,11 @@
+C:\Users\wunde\source\repos\BranchingExercise\BranchingExercise\bin\Debug\netcoreapp2.1\BranchingExercise.deps.json
+C:\Users\wunde\source\repos\BranchingExercise\BranchingExercise\bin\Debug\netcoreapp2.1\BranchingExercise.runtimeconfig.json
+C:\Users\wunde\source\repos\BranchingExercise\BranchingExercise\bin\Debug\netcoreapp2.1\BranchingExercise.runtimeconfig.dev.json
+C:\Users\wunde\source\repos\BranchingExercise\BranchingExercise\bin\Debug\netcoreapp2.1\BranchingExercise.dll
+C:\Users\wunde\source\repos\BranchingExercise\BranchingExercise\bin\Debug\netcoreapp2.1\BranchingExercise.pdb
+C:\Users\wunde\source\repos\BranchingExercise\BranchingExercise\obj\Debug\netcoreapp2.1\BranchingExercise.csprojAssemblyReference.cache
+C:\Users\wunde\source\repos\BranchingExercise\BranchingExercise\obj\Debug\netcoreapp2.1\BranchingExercise.csproj.CoreCompileInputs.cache
+C:\Users\wunde\source\repos\BranchingExercise\BranchingExercise\obj\Debug\netcoreapp2.1\BranchingExercise.AssemblyInfoInputs.cache
+C:\Users\wunde\source\repos\BranchingExercise\BranchingExercise\obj\Debug\netcoreapp2.1\BranchingExercise.AssemblyInfo.cs
+C:\Users\wunde\source\repos\BranchingExercise\BranchingExercise\obj\Debug\netcoreapp2.1\BranchingExercise.dll
+C:\Users\wunde\source\repos\BranchingExercise\BranchingExercise\obj\Debug\netcoreapp2.1\BranchingExercise.pdb
