@@ -1,0 +1,11 @@
+C:\Users\wunde\source\repos\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp2.1\VariablesAndDataTypes.deps.json
+C:\Users\wunde\source\repos\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp2.1\VariablesAndDataTypes.runtimeconfig.json
+C:\Users\wunde\source\repos\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp2.1\VariablesAndDataTypes.runtimeconfig.dev.json
+C:\Users\wunde\source\repos\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp2.1\VariablesAndDataTypes.dll
+C:\Users\wunde\source\repos\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp2.1\VariablesAndDataTypes.pdb
+C:\Users\wunde\source\repos\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp2.1\VariablesAndDataTypes.csprojAssemblyReference.cache
+C:\Users\wunde\source\repos\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp2.1\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\wunde\source\repos\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp2.1\VariablesAndDataTypes.AssemblyInfoInputs.cache
+C:\Users\wunde\source\repos\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp2.1\VariablesAndDataTypes.AssemblyInfo.cs
+C:\Users\wunde\source\repos\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp2.1\VariablesAndDataTypes.dll
+C:\Users\wunde\source\repos\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp2.1\VariablesAndDataTypes.pdb
