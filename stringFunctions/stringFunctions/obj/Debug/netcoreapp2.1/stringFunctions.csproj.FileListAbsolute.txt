@@ -1,0 +1,11 @@
+C:\Users\wunde\source\repos\stringFunctions\stringFunctions\bin\Debug\netcoreapp2.1\stringFunctions.deps.json
+C:\Users\wunde\source\repos\stringFunctions\stringFunctions\bin\Debug\netcoreapp2.1\stringFunctions.runtimeconfig.json
+C:\Users\wunde\source\repos\stringFunctions\stringFunctions\bin\Debug\netcoreapp2.1\stringFunctions.runtimeconfig.dev.json
+C:\Users\wunde\source\repos\stringFunctions\stringFunctions\bin\Debug\netcoreapp2.1\stringFunctions.dll
+C:\Users\wunde\source\repos\stringFunctions\stringFunctions\bin\Debug\netcoreapp2.1\stringFunctions.pdb
+C:\Users\wunde\source\repos\stringFunctions\stringFunctions\obj\Debug\netcoreapp2.1\stringFunctions.csprojAssemblyReference.cache
+C:\Users\wunde\source\repos\stringFunctions\stringFunctions\obj\Debug\netcoreapp2.1\stringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\wunde\source\repos\stringFunctions\stringFunctions\obj\Debug\netcoreapp2.1\stringFunctions.AssemblyInfoInputs.cache
+C:\Users\wunde\source\repos\stringFunctions\stringFunctions\obj\Debug\netcoreapp2.1\stringFunctions.AssemblyInfo.cs
+C:\Users\wunde\source\repos\stringFunctions\stringFunctions\obj\Debug\netcoreapp2.1\stringFunctions.dll
+C:\Users\wunde\source\repos\stringFunctions\stringFunctions\obj\Debug\netcoreapp2.1\stringFunctions.pdb
