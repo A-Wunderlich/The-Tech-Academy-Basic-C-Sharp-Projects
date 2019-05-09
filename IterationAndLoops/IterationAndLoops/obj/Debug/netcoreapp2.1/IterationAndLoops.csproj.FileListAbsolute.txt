@@ -1,0 +1,11 @@
+C:\Users\wunde\source\repos\IterationAndLoops\IterationAndLoops\bin\Debug\netcoreapp2.1\IterationAndLoops.deps.json
+C:\Users\wunde\source\repos\IterationAndLoops\IterationAndLoops\bin\Debug\netcoreapp2.1\IterationAndLoops.runtimeconfig.json
+C:\Users\wunde\source\repos\IterationAndLoops\IterationAndLoops\bin\Debug\netcoreapp2.1\IterationAndLoops.runtimeconfig.dev.json
+C:\Users\wunde\source\repos\IterationAndLoops\IterationAndLoops\bin\Debug\netcoreapp2.1\IterationAndLoops.dll
+C:\Users\wunde\source\repos\IterationAndLoops\IterationAndLoops\bin\Debug\netcoreapp2.1\IterationAndLoops.pdb
+C:\Users\wunde\source\repos\IterationAndLoops\IterationAndLoops\obj\Debug\netcoreapp2.1\IterationAndLoops.csprojAssemblyReference.cache
+C:\Users\wunde\source\repos\IterationAndLoops\IterationAndLoops\obj\Debug\netcoreapp2.1\IterationAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\wunde\source\repos\IterationAndLoops\IterationAndLoops\obj\Debug\netcoreapp2.1\IterationAndLoops.AssemblyInfoInputs.cache
+C:\Users\wunde\source\repos\IterationAndLoops\IterationAndLoops\obj\Debug\netcoreapp2.1\IterationAndLoops.AssemblyInfo.cs
+C:\Users\wunde\source\repos\IterationAndLoops\IterationAndLoops\obj\Debug\netcoreapp2.1\IterationAndLoops.dll
+C:\Users\wunde\source\repos\IterationAndLoops\IterationAndLoops\obj\Debug\netcoreapp2.1\IterationAndLoops.pdb
