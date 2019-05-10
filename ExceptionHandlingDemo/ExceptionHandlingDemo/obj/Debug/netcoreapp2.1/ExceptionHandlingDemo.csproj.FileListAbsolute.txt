@@ -1,0 +1,11 @@
+C:\Users\wunde\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\netcoreapp2.1\ExceptionHandlingDemo.csprojAssemblyReference.cache
+C:\Users\wunde\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\netcoreapp2.1\ExceptionHandlingDemo.csproj.CoreCompileInputs.cache
+C:\Users\wunde\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\netcoreapp2.1\ExceptionHandlingDemo.AssemblyInfoInputs.cache
+C:\Users\wunde\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\netcoreapp2.1\ExceptionHandlingDemo.AssemblyInfo.cs
+C:\Users\wunde\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\netcoreapp2.1\ExceptionHandlingDemo.deps.json
+C:\Users\wunde\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\netcoreapp2.1\ExceptionHandlingDemo.runtimeconfig.json
+C:\Users\wunde\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\netcoreapp2.1\ExceptionHandlingDemo.runtimeconfig.dev.json
+C:\Users\wunde\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\netcoreapp2.1\ExceptionHandlingDemo.dll
+C:\Users\wunde\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\netcoreapp2.1\ExceptionHandlingDemo.pdb
+C:\Users\wunde\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\netcoreapp2.1\ExceptionHandlingDemo.dll
+C:\Users\wunde\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\netcoreapp2.1\ExceptionHandlingDemo.pdb
