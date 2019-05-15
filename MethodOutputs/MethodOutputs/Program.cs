@@ -20,6 +20,8 @@ namespace MethodOutputs
             m.Addition(out c, out d);
             Console.WriteLine("The addition of the value is: {0}", c);
             Console.WriteLine("The addition of the value is: {0}", d);
+            Console.WriteLine(Static.Mulit2(15));
+            Console.ReadLine();
         }
     }
 }

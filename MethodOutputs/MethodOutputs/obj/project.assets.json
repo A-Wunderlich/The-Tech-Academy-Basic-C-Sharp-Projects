@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wunde\\source\\repos\\MethodOutputs\\MethodOutputs\\MethodOutputs.csproj",
+      "projectUniqueName": "C:\\Users\\wunde\\OneDrive\\Desktop\\Bootcamp Projects\\C# Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodOutputs\\MethodOutputs\\MethodOutputs.csproj",
       "projectName": "MethodOutputs",
-      "projectPath": "C:\\Users\\wunde\\source\\repos\\MethodOutputs\\MethodOutputs\\MethodOutputs.csproj",
+      "projectPath": "C:\\Users\\wunde\\OneDrive\\Desktop\\Bootcamp Projects\\C# Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodOutputs\\MethodOutputs\\MethodOutputs.csproj",
       "packagesPath": "C:\\Users\\wunde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wunde\\source\\repos\\MethodOutputs\\MethodOutputs\\obj\\",
+      "outputPath": "C:\\Users\\wunde\\OneDrive\\Desktop\\Bootcamp Projects\\C# Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodOutputs\\MethodOutputs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

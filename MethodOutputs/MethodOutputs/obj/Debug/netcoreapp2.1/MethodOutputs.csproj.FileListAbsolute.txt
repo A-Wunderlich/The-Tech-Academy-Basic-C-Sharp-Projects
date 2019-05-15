@@ -9,3 +9,14 @@ C:\Users\wunde\source\repos\MethodOutputs\MethodOutputs\obj\Debug\netcoreapp2.1\
 C:\Users\wunde\source\repos\MethodOutputs\MethodOutputs\obj\Debug\netcoreapp2.1\MethodOutputs.AssemblyInfo.cs
 C:\Users\wunde\source\repos\MethodOutputs\MethodOutputs\obj\Debug\netcoreapp2.1\MethodOutputs.dll
 C:\Users\wunde\source\repos\MethodOutputs\MethodOutputs\obj\Debug\netcoreapp2.1\MethodOutputs.pdb
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\MethodOutputs\MethodOutputs\bin\Debug\netcoreapp2.1\MethodOutputs.deps.json
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\MethodOutputs\MethodOutputs\bin\Debug\netcoreapp2.1\MethodOutputs.runtimeconfig.json
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\MethodOutputs\MethodOutputs\bin\Debug\netcoreapp2.1\MethodOutputs.runtimeconfig.dev.json
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\MethodOutputs\MethodOutputs\bin\Debug\netcoreapp2.1\MethodOutputs.dll
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\MethodOutputs\MethodOutputs\bin\Debug\netcoreapp2.1\MethodOutputs.pdb
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\MethodOutputs\MethodOutputs\obj\Debug\netcoreapp2.1\MethodOutputs.csprojAssemblyReference.cache
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\MethodOutputs\MethodOutputs\obj\Debug\netcoreapp2.1\MethodOutputs.csproj.CoreCompileInputs.cache
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\MethodOutputs\MethodOutputs\obj\Debug\netcoreapp2.1\MethodOutputs.AssemblyInfoInputs.cache
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\MethodOutputs\MethodOutputs\obj\Debug\netcoreapp2.1\MethodOutputs.AssemblyInfo.cs
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\MethodOutputs\MethodOutputs\obj\Debug\netcoreapp2.1\MethodOutputs.dll
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\MethodOutputs\MethodOutputs\obj\Debug\netcoreapp2.1\MethodOutputs.pdb

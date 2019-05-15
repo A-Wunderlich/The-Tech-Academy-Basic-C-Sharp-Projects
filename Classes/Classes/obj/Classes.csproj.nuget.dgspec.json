@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wunde\\source\\repos\\Classes\\Classes\\Classes.csproj": {}
+    "C:\\Users\\wunde\\OneDrive\\Desktop\\Bootcamp Projects\\C# Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\Classes\\Classes\\Classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wunde\\source\\repos\\Classes\\Classes\\Classes.csproj": {
+    "C:\\Users\\wunde\\OneDrive\\Desktop\\Bootcamp Projects\\C# Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\Classes\\Classes\\Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wunde\\source\\repos\\Classes\\Classes\\Classes.csproj",
+        "projectUniqueName": "C:\\Users\\wunde\\OneDrive\\Desktop\\Bootcamp Projects\\C# Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\Classes\\Classes\\Classes.csproj",
         "projectName": "Classes",
-        "projectPath": "C:\\Users\\wunde\\source\\repos\\Classes\\Classes\\Classes.csproj",
+        "projectPath": "C:\\Users\\wunde\\OneDrive\\Desktop\\Bootcamp Projects\\C# Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\Classes\\Classes\\Classes.csproj",
         "packagesPath": "C:\\Users\\wunde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wunde\\source\\repos\\Classes\\Classes\\obj\\",
+        "outputPath": "C:\\Users\\wunde\\OneDrive\\Desktop\\Bootcamp Projects\\C# Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\Classes\\Classes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
