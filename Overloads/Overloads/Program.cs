@@ -7,12 +7,11 @@ namespace Overloads
         static void Main(string[] args)
         {
             Methods multi = new Methods();
-            int solutionOne = multi.timesX(12);
-            Console.WriteLine(solutionOne);
-            decimal solutionTwo = multi.timesX(5.5m);
-            Console.WriteLine(solutionTwo);
-            int solutionThree = multi.timesX("13");
-            Console.WriteLine(solutionThree);
+            Console.WriteLine(multi.timesX(12));
+            Methods multi2 = new Methods();
+            Console.WriteLine(multi2.timesX(12.5m));
+            Methods multi3 = new Methods();
+            Console.WriteLine(multi3.timesX("13"));
             
         }
     }

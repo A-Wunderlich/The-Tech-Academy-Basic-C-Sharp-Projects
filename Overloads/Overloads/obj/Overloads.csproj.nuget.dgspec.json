@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wunde\\source\\repos\\Overloads\\Overloads\\Overloads.csproj": {}
+    "C:\\Users\\wunde\\OneDrive\\Desktop\\Bootcamp Projects\\C# Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\Overloads\\Overloads\\Overloads.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wunde\\source\\repos\\Overloads\\Overloads\\Overloads.csproj": {
+    "C:\\Users\\wunde\\OneDrive\\Desktop\\Bootcamp Projects\\C# Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\Overloads\\Overloads\\Overloads.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wunde\\source\\repos\\Overloads\\Overloads\\Overloads.csproj",
+        "projectUniqueName": "C:\\Users\\wunde\\OneDrive\\Desktop\\Bootcamp Projects\\C# Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\Overloads\\Overloads\\Overloads.csproj",
         "projectName": "Overloads",
-        "projectPath": "C:\\Users\\wunde\\source\\repos\\Overloads\\Overloads\\Overloads.csproj",
+        "projectPath": "C:\\Users\\wunde\\OneDrive\\Desktop\\Bootcamp Projects\\C# Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\Overloads\\Overloads\\Overloads.csproj",
         "packagesPath": "C:\\Users\\wunde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wunde\\source\\repos\\Overloads\\Overloads\\obj\\",
+        "outputPath": "C:\\Users\\wunde\\OneDrive\\Desktop\\Bootcamp Projects\\C# Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\Overloads\\Overloads\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
