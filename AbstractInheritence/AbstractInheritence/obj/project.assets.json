@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wunde\\source\\repos\\AbstractInheritence\\AbstractInheritence\\AbstractInheritence.csproj",
+      "projectUniqueName": "C:\\Users\\wunde\\OneDrive\\Desktop\\Bootcamp Projects\\C# Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\AbstractInheritence\\AbstractInheritence\\AbstractInheritence.csproj",
       "projectName": "AbstractInheritence",
-      "projectPath": "C:\\Users\\wunde\\source\\repos\\AbstractInheritence\\AbstractInheritence\\AbstractInheritence.csproj",
+      "projectPath": "C:\\Users\\wunde\\OneDrive\\Desktop\\Bootcamp Projects\\C# Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\AbstractInheritence\\AbstractInheritence\\AbstractInheritence.csproj",
       "packagesPath": "C:\\Users\\wunde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wunde\\source\\repos\\AbstractInheritence\\AbstractInheritence\\obj\\",
+      "outputPath": "C:\\Users\\wunde\\OneDrive\\Desktop\\Bootcamp Projects\\C# Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\AbstractInheritence\\AbstractInheritence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

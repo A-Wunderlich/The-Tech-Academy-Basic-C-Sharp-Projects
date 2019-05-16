@@ -1,0 +1,11 @@
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractInheritence\AbstractInheritence\bin\Debug\netcoreapp2.1\AbstractInheritence.deps.json
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractInheritence\AbstractInheritence\bin\Debug\netcoreapp2.1\AbstractInheritence.runtimeconfig.json
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractInheritence\AbstractInheritence\bin\Debug\netcoreapp2.1\AbstractInheritence.runtimeconfig.dev.json
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractInheritence\AbstractInheritence\bin\Debug\netcoreapp2.1\AbstractInheritence.dll
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractInheritence\AbstractInheritence\bin\Debug\netcoreapp2.1\AbstractInheritence.pdb
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractInheritence\AbstractInheritence\obj\Debug\netcoreapp2.1\AbstractInheritence.csprojAssemblyReference.cache
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractInheritence\AbstractInheritence\obj\Debug\netcoreapp2.1\AbstractInheritence.csproj.CoreCompileInputs.cache
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractInheritence\AbstractInheritence\obj\Debug\netcoreapp2.1\AbstractInheritence.AssemblyInfoInputs.cache
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractInheritence\AbstractInheritence\obj\Debug\netcoreapp2.1\AbstractInheritence.AssemblyInfo.cs
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractInheritence\AbstractInheritence\obj\Debug\netcoreapp2.1\AbstractInheritence.dll
+C:\Users\wunde\OneDrive\Desktop\Bootcamp Projects\C# Projects\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractInheritence\AbstractInheritence\obj\Debug\netcoreapp2.1\AbstractInheritence.pdb
