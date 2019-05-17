@@ -4,8 +4,9 @@ using System.Text;
 
 namespace Interface
 {
-    class Employee : Person, IQuittable
+    class Employee<T> : Person, IQuittable
     {
+        public List<T> Things = new List<T> { };
         public override void SayName()
         {
             base.SayName();

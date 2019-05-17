@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wunde\\source\\repos\\Interface\\Interface\\Interface.csproj",
+      "projectUniqueName": "C:\\Users\\wunde\\OneDrive\\Desktop\\Bootcamp Projects\\C# Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\Interface\\Interface\\Interface.csproj",
       "projectName": "Interface",
-      "projectPath": "C:\\Users\\wunde\\source\\repos\\Interface\\Interface\\Interface.csproj",
+      "projectPath": "C:\\Users\\wunde\\OneDrive\\Desktop\\Bootcamp Projects\\C# Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\Interface\\Interface\\Interface.csproj",
       "packagesPath": "C:\\Users\\wunde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wunde\\source\\repos\\Interface\\Interface\\obj\\",
+      "outputPath": "C:\\Users\\wunde\\OneDrive\\Desktop\\Bootcamp Projects\\C# Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\Interface\\Interface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
