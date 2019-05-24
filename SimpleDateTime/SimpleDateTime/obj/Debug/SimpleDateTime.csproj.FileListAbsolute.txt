@@ -1,0 +1,7 @@
+C:\Users\wunde\source\repos\SimpleDateTime\SimpleDateTime\bin\Debug\SimpleDateTime.exe.config
+C:\Users\wunde\source\repos\SimpleDateTime\SimpleDateTime\bin\Debug\SimpleDateTime.exe
+C:\Users\wunde\source\repos\SimpleDateTime\SimpleDateTime\bin\Debug\SimpleDateTime.pdb
+C:\Users\wunde\source\repos\SimpleDateTime\SimpleDateTime\obj\Debug\SimpleDateTime.csprojAssemblyReference.cache
+C:\Users\wunde\source\repos\SimpleDateTime\SimpleDateTime\obj\Debug\SimpleDateTime.csproj.CoreCompileInputs.cache
+C:\Users\wunde\source\repos\SimpleDateTime\SimpleDateTime\obj\Debug\SimpleDateTime.exe
+C:\Users\wunde\source\repos\SimpleDateTime\SimpleDateTime\obj\Debug\SimpleDateTime.pdb
