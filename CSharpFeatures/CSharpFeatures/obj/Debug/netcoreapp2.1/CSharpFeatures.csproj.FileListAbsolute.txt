@@ -1,0 +1,11 @@
+C:\Users\wunde\source\repos\CSharpFeatures\CSharpFeatures\bin\Debug\netcoreapp2.1\CSharpFeatures.deps.json
+C:\Users\wunde\source\repos\CSharpFeatures\CSharpFeatures\bin\Debug\netcoreapp2.1\CSharpFeatures.runtimeconfig.json
+C:\Users\wunde\source\repos\CSharpFeatures\CSharpFeatures\bin\Debug\netcoreapp2.1\CSharpFeatures.runtimeconfig.dev.json
+C:\Users\wunde\source\repos\CSharpFeatures\CSharpFeatures\bin\Debug\netcoreapp2.1\CSharpFeatures.dll
+C:\Users\wunde\source\repos\CSharpFeatures\CSharpFeatures\bin\Debug\netcoreapp2.1\CSharpFeatures.pdb
+C:\Users\wunde\source\repos\CSharpFeatures\CSharpFeatures\obj\Debug\netcoreapp2.1\CSharpFeatures.csprojAssemblyReference.cache
+C:\Users\wunde\source\repos\CSharpFeatures\CSharpFeatures\obj\Debug\netcoreapp2.1\CSharpFeatures.csproj.CoreCompileInputs.cache
+C:\Users\wunde\source\repos\CSharpFeatures\CSharpFeatures\obj\Debug\netcoreapp2.1\CSharpFeatures.AssemblyInfoInputs.cache
+C:\Users\wunde\source\repos\CSharpFeatures\CSharpFeatures\obj\Debug\netcoreapp2.1\CSharpFeatures.AssemblyInfo.cs
+C:\Users\wunde\source\repos\CSharpFeatures\CSharpFeatures\obj\Debug\netcoreapp2.1\CSharpFeatures.dll
+C:\Users\wunde\source\repos\CSharpFeatures\CSharpFeatures\obj\Debug\netcoreapp2.1\CSharpFeatures.pdb
