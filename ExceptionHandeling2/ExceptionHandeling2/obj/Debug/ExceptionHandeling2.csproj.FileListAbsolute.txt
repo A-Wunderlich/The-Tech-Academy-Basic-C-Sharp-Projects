@@ -1,0 +1,7 @@
+C:\Users\wunde\source\repos\ExceptionHandeling2\ExceptionHandeling2\bin\Debug\ExceptionHandeling2.exe.config
+C:\Users\wunde\source\repos\ExceptionHandeling2\ExceptionHandeling2\bin\Debug\ExceptionHandeling2.exe
+C:\Users\wunde\source\repos\ExceptionHandeling2\ExceptionHandeling2\bin\Debug\ExceptionHandeling2.pdb
+C:\Users\wunde\source\repos\ExceptionHandeling2\ExceptionHandeling2\obj\Debug\ExceptionHandeling2.csprojAssemblyReference.cache
+C:\Users\wunde\source\repos\ExceptionHandeling2\ExceptionHandeling2\obj\Debug\ExceptionHandeling2.csproj.CoreCompileInputs.cache
+C:\Users\wunde\source\repos\ExceptionHandeling2\ExceptionHandeling2\obj\Debug\ExceptionHandeling2.exe
+C:\Users\wunde\source\repos\ExceptionHandeling2\ExceptionHandeling2\obj\Debug\ExceptionHandeling2.pdb
